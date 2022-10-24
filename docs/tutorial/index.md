@@ -2,7 +2,7 @@
 next_page: app.md
 ---
 
-## The command you just ran Is not the command I wanted to run???
+## Hello AI Lab, I am trying to prevent CodePipeline from serving this document???
 
 Congratulations! You have started the container for this tutorial!
 Let's first explain the command that you just ran. In case you forgot,
